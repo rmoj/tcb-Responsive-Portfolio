@@ -224,4 +224,17 @@ footer {
     width: 100%;
     height: auto;
   }
+
+  #folio {
+    flex-wrap: nowrap;
+  }
+
+  #folio img {
+    width: 100%;
+    height: auto;
+  }
+
+  #folio p {
+    width: 100%;
+  }
 }
