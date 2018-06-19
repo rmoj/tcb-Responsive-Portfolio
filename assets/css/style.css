@@ -204,7 +204,7 @@ footer {
 
 @media screen and (max-width: 640px) {
   #main-content {
-    width: 480px;
+    width: 576px;
   }
   #headtainer {
     width: 100%;
